@@ -92,19 +92,19 @@ color: #fff;
 
 
     h1{
-        text-align: left;
+        text-align: center;
         line-height: 1rem;
-        font-size: 1.2rem; 
+        font-size: 1.7rem; 
 
     }
 
     .nav-meg-1{
-        text-align: left;
+        text-align: center;
         font-size: 1rem;
     }
     
     .nav-meg-2{
-        text-align: left;
+        text-align: center;
         font-size: 1rem;
     }
     
@@ -120,13 +120,19 @@ color: #fff;
     padding-right: 1em;
     padding-top: 1em;
     padding-bottom: 1em;
+    margin-left: 2em;
+    margin-right: 2em;
     
 }
 #email-button{
-    padding-left: 3em;
-    padding-right: 3em; 
-    background-color: DC0000;  
-    border-color: DC0000;
+    padding-top: 1.2em;
+    padding-bottom: 1.2em;
+    padding-left: 4em;
+    padding-right: 4em;
+    margin-left: 6em;
+    margin-right: 6em; 
+    margin-top: 2em;
+    
 }
 
 nav{
@@ -135,7 +141,32 @@ nav{
     align-content: baseline;
 }
 
+.background-col{
+    height: 35vh;
+}
 
+.img-nav{
+    max-width: 7em;
+    max-height:7em;
+}
+
+nav{
+    display: flex;
+    
+}
+.nav-butt{
+
+    margin-right: 0;
+margin-top: 2em;
+padding-left: 0.5em;
+padding-right: 0.5em;
+padding-bottom: 0.2em;
+padding-top: 0.2em;
+    
+}
+.img-nav{
+    margin-left: 0;
+}
 
 
 }

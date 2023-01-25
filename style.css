@@ -1,0 +1,142 @@
+body{
+    margin: 0;
+padding: 0;
+
+}
+nav{
+    display: flex;
+    justify-content: space-between;
+    align-content: baseline;
+}
+.img-nav{
+    margin-left: 3em;
+}
+
+.nav-butt{
+margin-right: 2em;
+margin-top: 2em;
+padding-left: 1.6em;
+padding-right: 1.6em;
+padding-bottom: 0.6em;
+padding-top: 0.6em;
+border-radius: 0.3rem;
+background-color:  #ff0612;
+border-color:  #ff0612;
+color: #fff;
+font-size: 1.2rem;
+
+
+
+}
+.nav-butt:hover{
+cursor: pointer;
+}
+h1{
+text-align: center;
+line-height: 2rem;
+font-size: 5rem;
+color: #fff;
+}
+.nav-meg-1{
+    text-align: center;
+    font-size: 1.80rem;
+    color: #fff;
+}
+
+.nav-meg-2{
+    text-align: center;
+    font-size: 1.2rem;
+    color: #fff;
+}
+
+.form-1{
+    display: flex;
+    justify-content: center;
+    margin-top: 6em;
+}
+
+#email-1{
+ padding-left: 10em;
+ padding-right: 10em;
+ padding-top: 2em;
+ padding-bottom: 2em;
+ 
+}
+
+#email-button{
+    padding-left: 6em;
+    padding-right: 6em; 
+    background-color: #E50914
+    ;  
+    border-color: #E50914
+    ;
+}
+
+#email-button:hover{
+    cursor: pointer;
+    background-color: #ff0612
+    ;
+}
+
+.background-col{
+    background-image: url(./img/GH-en-20230116-popsignuptwoweeks-perspective_alpha_website_large.jpg);
+    height: 99vh;
+    box-shadow: 2rem 20rem 20rem inset;
+}
+
+
+
+
+@media only screen and (max-width: 360px) {
+
+
+
+    h1{
+        text-align: left;
+        line-height: 1rem;
+        font-size: 1.2rem; 
+
+    }
+
+    .nav-meg-1{
+        text-align: left;
+        font-size: 1rem;
+    }
+    
+    .nav-meg-2{
+        text-align: left;
+        font-size: 1rem;
+    }
+    
+.form-1{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    margin-top: 1em;
+   }
+
+#email-1{
+    padding-left: 0.2em;
+    padding-right: 1em;
+    padding-top: 1em;
+    padding-bottom: 1em;
+    
+}
+#email-button{
+    padding-left: 3em;
+    padding-right: 3em; 
+    background-color: DC0000;  
+    border-color: DC0000;
+}
+
+nav{
+    display: flex;
+    justify-content: space-between;
+    align-content: baseline;
+}
+
+
+
+
+}
+

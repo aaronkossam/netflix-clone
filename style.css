@@ -87,13 +87,13 @@ color: #fff;
 
 
 
-@media only screen and (max-width: 360px) {
+@media only screen and (max-width: 326px) {
 
 
 
     h1{
         text-align: center;
-        line-height: 1rem;
+        line-height: 2rem;
         font-size: 1.7rem; 
 
     }

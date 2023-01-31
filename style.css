@@ -148,8 +148,8 @@ line-height: 1.6rem;
     }
     .video-img{
         
-        width: 24rem;
-        height:20rem;
+        width: 100%;
+        height:100%;
     }
     .video-flex{
         display: flex;
@@ -229,8 +229,8 @@ h2{
 }
 .video-img{
     
-    width: 24rem;
-    height:20rem;
+    width: 100%;
+    height:100%;
 }
     .form-1{
         display: flex;
@@ -302,8 +302,8 @@ h2{
     }
     .video-img{
         
-        width: 20rem;
-        height:20rem;
+        width: 100%;
+        height:100%;
     }
 
 

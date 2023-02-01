@@ -12,6 +12,10 @@ nav{
     margin-left: 3em;
 }
 
+.video-sec-1{
+    margin-top: -2em;
+}
+
 .nav-butt{
 margin-right: 2em;
 margin-top: 2em;
@@ -157,6 +161,10 @@ h4{
 
 @media only screen and (max-width: 414px){
 
+    .horinzontal{
+        width: 99.60%;
+    }
+
     .sec-2{
         display: flex;
         flex-direction: column-reverse;
@@ -252,6 +260,11 @@ h4{
 }
 
 @media only screen and (max-width: 428px){
+
+    
+    .horinzontal{
+        width: 99.60%;
+    }
 
     .sec-2{
         display: flex;
@@ -351,6 +364,11 @@ h2{
 
 
 @media only screen and (max-width:360px ) {
+    
+    .horinzontal{
+        width: 99.60%;
+    }
+
 
     .sec-2{
         display: flex;
@@ -491,13 +509,14 @@ h3{
 
 }
 
-@media only screen and (max-width:320px ){
-    
-
-}
 
 
 @media only screen and (max-width:720px ) {
+    
+    .horinzontal{
+        width: 99.55%;
+    }
+
     .sec-2{
         display: flex;
         flex-direction: column-reverse;
@@ -637,5 +656,4 @@ h3{
 
 
 }
-
 

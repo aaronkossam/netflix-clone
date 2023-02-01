@@ -528,8 +528,8 @@ h3{
     }
     .video-sec{
         text-align: center;
-        line-height: 1rem;
-        font-size: 1.2rem;
+        line-height: 0.55rem;
+        font-size: 1rem;
     }
     .video-img{
         
@@ -625,7 +625,7 @@ h3{
 }
 .video-sec-1{
     text-align: center;
-    font-size: 1.2rem;
+    font-size: 1rem;
     margin-top: -1em;
 }
 .im-vi{

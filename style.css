@@ -252,6 +252,26 @@ h4{
 }
 
 @media only screen and (max-width: 428px){
+
+    .sec-2{
+        display: flex;
+        flex-direction: column-reverse;
+    }
+
+    h4{
+        font-size: 1.7rem;
+        text-align: center;
+        margin-top: -0.8em;
+    }
+    .sec-tex{
+        text-align: center;
+        font-size: 1.3rem;
+    }
+
+    .im-sec-2{
+        width: 100%;
+        height: 100%;
+    }
     h1{
         text-align: center;
         line-height: 1rem;
@@ -331,6 +351,26 @@ h2{
 
 
 @media only screen and (max-width:360px ) {
+
+    .sec-2{
+        display: flex;
+        flex-direction: column-reverse;
+    }
+
+    h4{
+        font-size: 1.7rem;
+        text-align: center;
+        margin-top: -0.8em;
+    }
+    .sec-tex{
+        text-align: center;
+        font-size: 1.3rem;
+    }
+
+    .im-sec-2{
+        width: 100%;
+        height: 100%;
+    }
     .video-flex{
         display: flex;
         flex-direction: column;
@@ -455,6 +495,25 @@ h3{
 
 
 @media only screen and (max-width:750px ) {
+    .sec-2{
+        display: flex;
+        flex-direction: column-reverse;
+    }
+
+    h4{
+        font-size: 1.7rem;
+        text-align: center;
+        margin-top: -0.8em;
+    }
+    .sec-tex{
+        text-align: center;
+        font-size: 1.3rem;
+    }
+
+    .im-sec-2{
+        width: 100%;
+        height: 100%;
+    }
     .video-flex{
         display: flex;
         flex-direction: column;

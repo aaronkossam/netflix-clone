@@ -168,11 +168,11 @@ h4 {
     margin-top: -1em;
 }
 
-h5{
+h5 {
     color: #434242;
     font-size: 1rem;
-   padding-left: 26em;
-   
+    padding-left: 26em;
+
 }
 
 .foot-1 {
@@ -182,7 +182,7 @@ h5{
 
 }
 
-.foot-2{
+.foot-2 {
     background-color: #000000;
     padding-top: 4em;
     padding-bottom: 4em;
@@ -193,29 +193,48 @@ h5{
     list-style: none;
 
 }
-.foot-1 ul li{
+
+.foot-1 ul li {
     color: #434242;
     line-height: 2.6rem;
 }
 
-small{
-    color:  #434242  ;
+small {
+    color: #434242;
     padding-left: 31.6em;
+}
+
+.accordion-1{
+    background-color: #000000;
+}
+
+label{
+    color: white;
+}
+.content-1{
+    color: white;
+}
+
+
+h6{
+    text-align: center;
+    font-size: 2rem;
+    color:white;
 }
 
 
 @media only screen and (max-width: 414px) {
-    h5{
+    h5 {
         padding-left: 1em;
     }
 
-    .foot-1{
+    .foot-1 {
         display: grid;
         grid-template-columns: 100px 100px;
-      
+
     }
 
-    small{
+    small {
         padding-left: 1em;
     }
 
@@ -328,17 +347,17 @@ small{
 }
 
 @media only screen and (max-width: 428px) {
-    h5{
+    h5 {
         padding-left: 1em;
     }
 
-    .foot-1{
+    .foot-1 {
         display: grid;
         grid-template-columns: 100px 100px;
-      
+
     }
 
-    small{
+    small {
         padding-left: 1em;
     }
 
@@ -456,19 +475,20 @@ small{
 @media only screen and (max-width:360px) {
 
 
-    h5{
+    h5 {
         padding-left: 1em;
     }
 
-    .foot-1{
+    .foot-1 {
         display: grid;
         grid-template-columns: 100px 100px;
-      
+
     }
 
-    small{
+    small {
         padding-left: 1em;
     }
+
     .horinzontal {
         width: 99.60%;
     }
@@ -628,17 +648,17 @@ small{
 
 @media only screen and (max-width:720px) {
 
-    h5{
+    h5 {
         padding-left: 1em;
     }
 
-    .foot-1{
+    .foot-1 {
         display: grid;
         grid-template-columns: 100px 100px;
-      
+
     }
 
-    small{
+    small {
         padding-left: 1em;
     }
 

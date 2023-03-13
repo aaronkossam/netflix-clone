@@ -322,6 +322,10 @@ h6 {
         flex-direction: column;
         margin-top: 1em;
     }
+    #email-button {
+        margin-left: 2em ;
+            margin-right: 2em;
+        }
 
     .nav-butt {
 
@@ -335,16 +339,7 @@ h6 {
 
     }
 
-    #email-button {
-        padding-top: 1.2em;
-        padding-bottom: 1.2em;
-       text-align: center;
-        margin-left: 6em;
-        margin-right: 6em;
-        margin-top: 2em;
-        border-radius: 0;
-
-    }
+  
 
     .img-nav {
         margin-left: 0;
@@ -460,16 +455,7 @@ h6 {
 
     }
 
-    #email-button {
-        padding-top: 1.2em;
-        padding-bottom: 1.2em;
-        padding-left: 4em;
-        padding-right: 4em;
-        margin-left: 6em;
-        margin-right: 6em;
-        margin-top: 2em;
-
-    }
+  
 
     .img-nav {
         margin-left: 0;
@@ -478,7 +464,7 @@ h6 {
     h3 {
         text-align: center;
         font-size: 1.9rem;
-        line-height: 1rem;
+        line-height: 1.5rem;
         margin-top: -1em;
     }
 
@@ -518,6 +504,10 @@ h6 {
     .horinzontal {
         width: 99.60%;
     }
+    #email-button {
+        margin-left: 2em ;
+            margin-right: 2em;
+        }
 
 
     .sec-2 {
@@ -602,17 +592,7 @@ h6 {
 
     }
 
-    #email-button {
-        padding-top: 1.2em;
-        padding-bottom: 1.2em;
-        padding-left: 4em;
-        padding-right: 4em;
-        margin-left: 6em;
-        margin-right: 6em;
-        margin-top: 2em;
-
-    }
-
+   
     nav {
         display: flex;
         justify-content: space-between;
@@ -651,7 +631,7 @@ h6 {
     h3 {
         text-align: center;
         font-size: 1.9rem;
-        line-height: 1rem;
+        line-height: 2rem;
         margin-top: -1em;
     }
 
@@ -776,17 +756,7 @@ h6 {
 
     }
 
-    #email-button {
-        padding-top: 1.2em;
-        padding-bottom: 1.2em;
-        padding-left: 4em;
-        padding-right: 4em;
-        margin-left: 6em;
-        margin-right: 6em;
-        margin-top: 2em;
-
-    }
-
+    
     nav {
         display: flex;
         justify-content: space-between;
@@ -817,7 +787,12 @@ h6 {
         padding-top: 0.2em;
         border-radius: 0;
 
-    }
+    }    #email-button {
+        margin-left: 2em;
+        margin-right:2em;
+        padding-top: 1em;
+        padding-bottom: 1em;
+        }
 
     .img-nav {
         margin-left: 0;
@@ -842,4 +817,15 @@ h6 {
         margin-top: -2em;
     }
 
+}
+
+
+@media only screen and (max-width:320px) {
+    h3{
+        line-height: 1.5rem;
+    }
+    #email-button {
+margin-left: 2em ;
+    margin-right: 2em;
+}
 }

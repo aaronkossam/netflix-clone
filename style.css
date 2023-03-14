@@ -348,8 +348,8 @@ h6 {
 
     h3 {
         text-align: center;
-        font-size: 1.9rem;
-        line-height: 1rem;
+        font-size: 1.5rem;
+        line-height: 2rem;
         margin-top: -1em;
     }
 
@@ -465,7 +465,7 @@ h6 {
     h3 {
         text-align: center;
         font-size: 1.9rem;
-        line-height: 1.5rem;
+        line-height: 2rem;
         margin-top: -1em;
     }
 
@@ -632,7 +632,7 @@ h6 {
     h3 {
         text-align: center;
         font-size: 1.9rem;
-        line-height: 2rem;
+        line-height: 1.6rem;
         margin-top: -1em;
     }
 
@@ -801,8 +801,8 @@ h6 {
 
     h3 {
         text-align: center;
-        font-size: 1.9rem;
-        line-height: 1rem;
+        font-size: 1rem;
+        line-height: 1.5rem;
         margin-top: -1em;
     }
 
@@ -823,7 +823,7 @@ h6 {
 
 @media only screen and (max-width:320px) {
     h3{
-        line-height: 1.5rem;
+        line-height: 3rem;
     }
     #email-button {
 margin-left: 2em ;
@@ -834,8 +834,8 @@ margin-left: 2em ;
 
 @media only screen and (max-width:1280px) {
     h3{
-        line-height: 2rem;
-        font-size: 3.5rem;
+        line-height: 1.5rem;
+        font-size: 2rem;
     }
 }
 

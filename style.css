@@ -830,3 +830,13 @@ margin-left: 2em ;
     margin-right: 2em;
 }
 }
+
+
+@media only screen and (max-width:1280px) {
+    h3{
+        line-height: 2rem;
+        font-size: 3.5rem;
+    }
+}
+
+

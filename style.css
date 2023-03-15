@@ -249,6 +249,8 @@ h6 {
 
  @media only screen and (max-width: 414px) 
          {
+
+           
     h5 {
         padding-left: 1em;
     }
@@ -368,6 +370,8 @@ h6 {
  }
 
 @media only screen and (max-width: 428px) {
+
+    
     h5 {
         padding-left: 1em;
     }
@@ -487,6 +491,7 @@ h6 {
 
 @media only screen and (max-width:360px) {
 
+  
 
     h5 {
         padding-left: 1em;
@@ -656,6 +661,8 @@ h6 {
 
 
 @media only screen and (max-width:720px) {
+
+  
 
     h5 {
         padding-left: 1em;
@@ -833,6 +840,12 @@ margin-left: 2em ;
 
 
 @media only screen and (max-width:1280px) {
+    .background-col {
+        background-image: url(./img/GH-en-20230116-popsignuptwoweeks-perspective_alpha_website_large.jpg);
+        height: 99vh;
+        box-shadow: 3rem 3rem 80rem 4rem #000 inset;
+        margin-bottom: -0.5em;
+    }
     h3{
         line-height: 1.5rem;
         font-size: 2rem;
